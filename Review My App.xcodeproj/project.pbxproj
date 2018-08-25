@@ -12,6 +12,7 @@
 		894E66D02131BD74001BED0C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 894E66CE2131BD74001BED0C /* Main.storyboard */; };
 		894E66D22131BD77001BED0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 894E66D12131BD77001BED0C /* Assets.xcassets */; };
 		894E66D52131BD77001BED0C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 894E66D32131BD77001BED0C /* LaunchScreen.storyboard */; };
+		894E66DD2131C112001BED0C /* christian-fregnan-730450-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 894E66DC2131C112001BED0C /* christian-fregnan-730450-unsplash.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		894E66D12131BD77001BED0C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		894E66D42131BD77001BED0C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		894E66D62131BD77001BED0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		894E66DC2131C112001BED0C /* christian-fregnan-730450-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "christian-fregnan-730450-unsplash.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		894E66C92131BD74001BED0C /* Review My App */ = {
 			isa = PBXGroup;
 			children = (
+				894E66DC2131C112001BED0C /* christian-fregnan-730450-unsplash.jpg */,
 				894E66CA2131BD74001BED0C /* AppDelegate.swift */,
 				894E66CC2131BD74001BED0C /* ViewController.swift */,
 				894E66CE2131BD74001BED0C /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				894E66D52131BD77001BED0C /* LaunchScreen.storyboard in Resources */,
 				894E66D22131BD77001BED0C /* Assets.xcassets in Resources */,
+				894E66DD2131C112001BED0C /* christian-fregnan-730450-unsplash.jpg in Resources */,
 				894E66D02131BD74001BED0C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -281,6 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H28X75MLUY;
 				INFOPLIST_FILE = "Review My App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -298,6 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H28X75MLUY;
 				INFOPLIST_FILE = "Review My App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
